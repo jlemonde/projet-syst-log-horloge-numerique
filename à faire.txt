@@ -1,0 +1,16 @@
+
+A faire pour projet : 
+
+- Pommodoro
+
+- Sonne
+
+- Horloge bien
+
+- main (seulement si il  a besoin)
+
+- Bien nommer les fichiers ev mettre du texte expliquatif
+
+- tester sur la carte
+
+- module buzzer (le son est moche donc je sais pas et on doit prendre des grandes frequences aussi)

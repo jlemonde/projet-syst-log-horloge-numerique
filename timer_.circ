@@ -393,6 +393,7 @@ end TCL_Generic;
     </comp>
     <comp lib="4" loc="(1390,220)" name="Register">
       <a name="width" val="23"/>
+      <a name="label" val="temps_prevu"/>
     </comp>
     <comp lib="1" loc="(490,550)" name="AND Gate">
       <a name="facing" val="north"/>
@@ -412,10 +413,6 @@ end TCL_Generic;
       <a name="facing" val="north"/>
     </comp>
     <comp lib="4" loc="(840,400)" name="D Flip-Flop"/>
-    <comp lib="8" loc="(372,434)" name="Text">
-      <a name="text" val="mode set"/>
-      <a name="font" val="SansSerif plain 12"/>
-    </comp>
     <comp lib="1" loc="(1170,350)" name="OR Gate">
       <a name="size" val="30"/>
     </comp>
